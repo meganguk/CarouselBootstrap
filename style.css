@@ -1,0 +1,10 @@
+body {
+	padding-top: 70px;
+}
+.carousel-inner>.item>img {
+	margin: auto;
+	width: 100%;
+	height: 80vmin;
+	object-fit: cover;
+	
+}
